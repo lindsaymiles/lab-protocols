@@ -1,0 +1,24 @@
+From Parchman et al 2012
+
+EcoRI
+1 uL each oligo pair
+98 uL water
+
+1. Add 1 uL of each oligo in a pair (100uM stock) to 96 well plate
+2. Add 98 uL of water to each well and mix
+3. Heat to 95 C for 5 min and slowly cool to room temp
+
+MseI
+MesI adaptors are not barcoded
+MseI1: 5’ GCAGAAGACGGCATACGAGCTCTTCCGATCTG 3’
+MseI2: 5’ TACAGATCGGAAGAGCTCGTATGCCGTCTTCTGCTTG 3’
+
+10 uL MseI1 
+10 uL MseI2
+80 uL water
+
+1. Add 10 uL MseI1 to 96 well plate. 
+2. Add 10 uL MseI2
+3. add 80 uL water, mix
+4. Heat to 95C for 5 min and slowly cool to room temp
+
